@@ -22,11 +22,6 @@ class Solution {
 
 // - 判断是否为最大 2 的幂的约数
 //在题目给定的32位有符号整数的范围内，最大的2的幂为 2^{30} = 10737418242 的约数即可。
-
-作者：LeetCode-Solution
-链接：https://leetcode.cn/problems/power-of-two/solution/2de-mi-by-leetcode-solution-rny3/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 // 执行用时：0 ms, 在所有 Java 提交中击败了100.00%的用户
 // 内存消耗：38.3 MB, 在所有 Java 提交中击败了93.56%的用户
 class Solution {
