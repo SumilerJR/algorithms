@@ -4,17 +4,17 @@
 class Solution {
     List<Integer> list = new ArrayList<>();
     public List<Integer> largestValues(TreeNode root) {
-        bfs(root, 0);
+        dfs(root, 0);
         return list;
     }
-    public void bfs(TreeNode root, int height) {
+    public void dfs(TreeNode root, int height) {
         if (root == null)
             return;
         if (list.size() <= height)
             list.add(root.val);
         else if (list.get(height) < root.val)
             list.set(height, root.val);
-        bfs(root.left, height + 1);
-        bfs(root.right, height + 1);
+        dfs(root.left, height + 1);
+        dfs(root.right, height + 1);
     }
 }
