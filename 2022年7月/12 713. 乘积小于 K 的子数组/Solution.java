@@ -17,6 +17,8 @@ class Solution {
         return count;
     }
 }
+
+//123
 // 注意两个写法的细微差异，深入理解滑动窗口的动态过程
 class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
