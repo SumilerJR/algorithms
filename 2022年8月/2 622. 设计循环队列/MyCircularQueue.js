@@ -6,8 +6,8 @@
  * @param {number} k
  */
 var MyCircularQueue = function (k) {
-    this.queue = new Array(k + 1);
     this.size = k + 1;
+    this.queue = new Array(size);
     this.front = 0;
     this.rear = 0;
 };
