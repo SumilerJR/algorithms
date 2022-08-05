@@ -4,7 +4,7 @@
  * 执行用时：68 ms, 在所有 JavaScript 提交中击败了81.43%的用户
  * 内存消耗：43.3 MB, 在所有 JavaScript 提交中击败了77.14%的用户
  */
- var minSubsequence = function(nums) {
+var minSubsequence = function (nums) {
     nums.sort((a, b) => b - a);
     let sum = 0;
     let resultSum = 0;
