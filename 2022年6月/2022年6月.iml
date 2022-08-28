@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/14 498.对角线遍历" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15 557.反转字符串中的单词 III" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16 876.链表的中间结点" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17 19.删除链表的倒数第 N 个结点" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18 567. 字符串的排列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19 3. 无重复字符的最长子串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19 617. 合并二叉树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19 733. 图像渲染" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20 116. 填充每个节点的下一个右侧节点指针" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21 994. 腐烂的橘子" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22 46. 全排列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22 77. 组合" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22 784. 字母大小写全排列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23 198. 打家劫舍" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/23 70. 爬楼梯" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/24 120. 三角形最小路径和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25 191. 位1的个数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25 231. 2 的幂" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26 513. 找树左下角的值" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26 515. 在每个树行中找最大值" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26 剑指 Offer II 091. 粉刷房子" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27 136. 只出现一次的数字" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28 103. 二叉树的锯齿形层序遍历" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28 324. 摆动排序 II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29 34. 在排序数组中查找元素的第一个和最后一个位置" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30 1175. 质数排列" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
