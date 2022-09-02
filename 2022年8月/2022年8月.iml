@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/03 899. 有序队列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04 1403. 非递增顺序的最小子序列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 23. 合并K个升序链表" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 623. 在二叉树中增加一行" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06 1408. 数组中的字符串匹配" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07 6142. 统计坏数对的数目" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07 6174. 任务调度器 II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07 636. 函数的独占时间" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08 761. 特殊的二进制序列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10 640. 求解方程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12 1282. 用户分组" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13 769. 最多能完成排序的块" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 1422. 分割字符串的最大得分" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 第306场周赛 6148. 矩阵中的局部最大值" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 第306场周赛 6149. 边积分最高的节点" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14 第306场周赛 6150. 根据模式串构造最小数字" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15 641. 设计循环双端队列" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/16 1656. 设计有序流" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/17 1302. 层数最深叶子节点的和" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/18 1224. 最大相等频率" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/19 1450. 在既定时间做作业的学生人数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20 第 85 场双周赛 6156. 得到 K 个黑块的最少涂色次数" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20 第 85 场双周赛 6157. 二进制字符串重新安排顺序需要的时间" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/20 第 85 场双周赛 6158. 字母移位 II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21 1455. 检查单词是否为句中其他单词的前缀" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21 第 307 场周赛 6152. 赢得比赛需要的最少训练时长" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/21 第 307 场周赛 6154. 感染二叉树需要的总时间" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/22 655. 输出二叉树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/25 658. 找到 K 个最接近的元素" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27 662. 二叉树最大宽度" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/28 172. 阶乘后的零" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/29 1470. 重新排列数组" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30 654. 最大二叉树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30 998. 最大二叉树 II" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/31 946. 验证栈序列" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
