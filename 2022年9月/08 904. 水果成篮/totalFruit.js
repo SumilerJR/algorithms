@@ -18,6 +18,7 @@ var totalFruit = function (fruits) {
             j++;
         }
         ans = Math.max(ans, i - j + 1);
+
     }
     return ans;
 };
