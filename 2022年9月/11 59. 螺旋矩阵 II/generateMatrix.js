@@ -28,33 +28,4 @@ var generateMatrix = function (n) {
     return arr;
 };
 
-// /**
-//  * @param {number} n
-//  * @return {number[][]}
-//  */
-// var generateMatrix = function (n) {
-//     const arr = new Array(n).fill(0).map(() => new Array(n).fill(0));
-//     const m = Math.floor(n / 2);
-//     let i = 0, j = 0, k = 1, l = 0;
-//     while (l++ < Math.floor(n / 2)) {
-//         j = l;
-//         i = l;
-//         for (; j < n - l - 1; j++) {
-//             arr[i][j] = k++;
-//         }
-//         for (; i < n - l - 1; i++) {
-//             arr[i][j] = k++;
-//         }
-//         for (; j > l; j--) {
-//             arr[i][j] = k++;
-//         }
-//         for (; i > l; i--) {
-//             arr[i][j] = k++;
-//         }
-//     }
-//     if (n % 2 == 1) {
-//         arr[i][j] = k;
-//     }
-//     return arr;
-// };
 
