@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// 二维数组的前缀和
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
