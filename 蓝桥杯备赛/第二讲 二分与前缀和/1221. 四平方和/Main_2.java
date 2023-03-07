@@ -1,6 +1,5 @@
 import java.util.*;
 public class Main {
-
     static class Sum {
         int c;
         int d;
@@ -11,7 +10,6 @@ public class Main {
             this.s = s;
         }
     }
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
