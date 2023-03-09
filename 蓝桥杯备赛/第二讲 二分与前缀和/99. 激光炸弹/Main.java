@@ -9,11 +9,14 @@ public class Main {
         // r = Math.min(r, 5001);      //边长最大是5001。被坑了好久。
         int max_x = 0, max_y = 0;
 
+        // 经过测试，Scanner的平均耗时是BufferedReader的10倍左右
+        // java Scanner与BufferedReader读取键盘输入性能比较
+        // 在网上刷题的时候如果没有特殊困难，强烈推荐使用BufferedReader读取数据！
         BufferedReader BR = new BufferedReader(new InputStreamReader(System.in));
-        String [] line = BR.readLine().split(" ");
+        String [] line = BR.readLine().split(" ");//使用readLine()读整行，然后将读入的内容转换
         int n = Integer.parseInt(line[0]);
         int r = Integer.parseInt(line[1]);
-        r = Math.min(r, 5001);
+        r = Math.min(r, 5001);//限制r的最大值
         // String [] line = BR.readLine().split(" ");
         for (int i = 0; i < n; i++) {
             // int x = in.nextInt(), y = in.nextInt(), w = in.nextInt();
