@@ -61,6 +61,7 @@ public class Main {
         if (l == r) {
             tr[u] = new Node(l, r, w[r]);
         } else {
+            tr[u] = new Node(l, r, 0);
             int mid = l + r >> 1;
             build(u << 1, l, mid);
             build(u << 1 | 1, mid + 1, r);
