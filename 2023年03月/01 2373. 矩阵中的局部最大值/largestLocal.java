@@ -10,6 +10,7 @@ class Solution {
         }
         return map;
     }
+
     public int getMax(int[][] grid, int x, int y) {
         int max = grid[x - 1][y - 1];
         for (int i = x - 1; i <= x + 1; i++) {
