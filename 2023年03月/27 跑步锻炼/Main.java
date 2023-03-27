@@ -1,6 +1,7 @@
 import java.util.Scanner;
 // 1:无需package
 // 2: 类名必须Main, 不可修改
+// https://www.lanqiao.cn/problems/597/learning/
 
 public class Main {
     static int[] days = new int[] { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };

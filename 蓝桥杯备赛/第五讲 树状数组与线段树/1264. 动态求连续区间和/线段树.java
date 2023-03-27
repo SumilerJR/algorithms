@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+
 public class Main {
     static BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
     static BufferedWriter output = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -13,9 +14,11 @@ public class Main {
         int l;
         int r;
         int sum;
+
         Node() {
 
         }
+
         Node(int l, int r, int sum) {
             this.l = l;
             this.r = r;
@@ -69,7 +72,7 @@ public class Main {
         }
     }
 
-    public static int query(int u, int l, int r)throws Exception {
+    public static int query(int u, int l, int r) throws Exception {
         if (l <= tr[u].l && tr[u].r <= r) {
             return tr[u].sum;
         }
