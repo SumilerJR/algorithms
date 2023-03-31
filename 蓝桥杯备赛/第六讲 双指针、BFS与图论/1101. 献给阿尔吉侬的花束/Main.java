@@ -23,39 +23,49 @@ public class Main {
                     }
                 }
             }
-            System.out.println(bfs(map, x, y));
-            // out.write(x + " " + y + "\n");
+            int res = bfs(map, x, y);
+            if (res == -1) {
+                out.write("oop!\n");
+            } else {
+                out.write(res + "\n");
+            }
         }
 
         in.close();
-
+        out.close();
     }
 
     final static int[][] dir = new int[][] { { -1, 0 }, { 0, 1 }, { 1, 0 }, { 0, -1 } };
 
-    public static String bfs(char[][] map, int x, int y) {
+    public static int bfs(char[][] map, int x, int y) {
         int row = map.length, col = map[0].length;
         Queue<int[]> queue = new LinkedList<>();
-        int[][] dist = new int[row][col];// 计算距离
+        // int[][] dist = new int[row][col];// 计算距离
         queue.offer(new int[] { x, y });
         map[x][y] = '#';// 手动封入口
+        int step = 1;
         while (!queue.isEmpty()) {
-            int[] address = queue.poll();
-            for (int i = 0; i < 4; i++) {
-                int r = address[0] + dir[i][0];
-                int c = address[1] + dir[i][1];
-                if (r < 0 || r >= row || c < 0 || c >= col || map[r][c] == '#') {
-                    continue;
-                }
-                dist[r][c] = dist[address[0]][address[1]] + 1;// 要把该行放在出口前，否则出口一直为0……
-                if (map[r][c] == 'E') {
-                    return String.valueOf(dist[r][c]);
-                } else {
-                    queue.offer(new int[] { r, c });
-                    map[r][c] = '#';// 标记为来过
+            int size = queue.size();
+            while (size-- > 0) {
+                int[] address = queue.poll();
+                for (int i = 0; i < 4; i++) {
+                    int r = address[0] + dir[i][0];
+                    int c = address[1] + dir[i][1];
+                    if (r < 0 || r >= row || c < 0 || c >= col || map[r][c] == '#') {
+                        continue;
+                    }
+                    // dist[r][c] = dist[address[0]][address[1]] + 1;// 要把该行放在出口前，否则出口一直为0……
+                    if (map[r][c] == 'E') {
+                        // return String.valueOf(dist[r][c]);
+                        return step;
+                    } else {
+                        queue.offer(new int[] { r, c });
+                        map[r][c] = '#';// 标记为来过
+                    }
                 }
             }
+            step++;
         }
-        return "oop!";
+        return -1;
     }
 }
