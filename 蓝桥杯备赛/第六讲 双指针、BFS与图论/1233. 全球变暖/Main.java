@@ -20,7 +20,6 @@ public class Main {
             for (int j = 0; j < n; j++) {
                 if (map[i][j] == '#' && bfs(i, j)) {
                     ans++;
-                    // dfs(i, j);
                 }
             }
         }
