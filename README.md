@@ -1,3 +1,11 @@
+<!--
+ * @Author: 九日 mail@sumiler.com
+ * @Date: 2022-08-02 16:31:45
+ * @LastEditors: 九日 mail@sumiler.com
+ * @LastEditTime: 2023-10-28 16:52:58
+ * @FilePath: \LeetCode\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 记录数据结构与算法的内容，主要是算法题和一些以注释和md的笔记
 
 ## 2022年9月8日
@@ -30,4 +38,4 @@ while j < len(nums):
 
 作者：frostep
 
-test2
+test3 2023年10月28日16:52:50
