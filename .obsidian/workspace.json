@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "3bd409b417b6ee60",
+    "type": "split",
+    "children": [
+      {
+        "id": "03a1f4c15bab3604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4d14fb2ed5188e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f1c4a856563904f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff581c48217445ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bedc560ba742c4fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35229681d63a73d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d77228d7b6c5448",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3209b8cbf5440b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "98acc589ec73223e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "194be770c29d747f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5906f5563708bfc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5925048acf8c813",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "692c2d0e232a5071",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fc4d14fb2ed5188e",
+  "lastOpenFiles": [
+    "博客文章/照片整理.md",
+    "博客文章/博客六周年.md",
+    "博客文章/assets/博客六周年_image_3.png",
+    "博客文章/assets/博客六周年_image_2.png",
+    "博客文章/assets/博客六周年_image_1.jpg",
+    "博客文章/assets/tmp1704856020762_博客六周年_image_1.jpg",
+    "博客文章/assets/博客六周年_image_4.jpg",
+    "README.md",
+    "简历/简历.md",
+    "计算机网络/数据通信与计算机网络 期末复习.md",
+    "计算机网络/assets/数据通信与计算机网络 期末复习_image_28.png",
+    "计算机网络/assets/数据通信与计算机网络 期末复习_image_27.png",
+    "计算机网络/assets/数据通信与计算机网络 期末复习_image_26.png",
+    "计算机网络/assets/数据通信与计算机网络 期末复习_image_25.png",
+    "计算机网络/assets/数据通信与计算机网络 期末复习_image_33.png",
+    "简历",
+    "其他/C语言.md",
+    "软件工程导论/UML图.md",
+    "项目/SpringBoot+Vue博客/项目笔记.md",
+    "项目/SpringBoot+Vue博客/未命名.md",
+    "软件设计师/软考笔记.md",
+    "英语/语法.md",
+    "算法与数据结构/十大排序从入门到入赘.md",
+    "计算机网络/assets",
+    "计算机网络",
+    "博客文章/assets",
+    "博客文章",
+    "英语/【之了自考】语法.md",
+    "算法与数据结构/splay树.md",
+    "数据库/mysql高级篇笔记/第06章 索引的数据结构.md",
+    "数据库/mysql高级篇笔记/第05章 存储引擎.md",
+    "数据库/mysql高级篇笔记/第04章 逻辑架构.md",
+    "数据库/mysql高级篇笔记/assets",
+    "数据库/mysql高级篇笔记/第03章 用户与权限管理.md",
+    "数据库/mysql高级篇笔记/第02章 MySQL的数据目录.md",
+    "数据库/mysql高级篇笔记/第01章 Linux下MySQL的安装与使用.md",
+    "数据库/数据库.md",
+    "Android/README.md",
+    "JavaScript/ES6/README.md",
+    "JavaScript/模块化/README.md",
+    "JavaScript/模块化/assets",
+    "uni-app/UNI-APP.md",
+    "英语/assets",
+    "assets",
+    "软考笔记"
+  ]
+}

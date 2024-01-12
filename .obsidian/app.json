@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": "./assets",
+  "newLinkFormat": "absolute",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true
+}
