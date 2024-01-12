@@ -135,11 +135,14 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.8\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "fc4d14fb2ed5188e",
+  "active": "bedc560ba742c4fd",
   "lastOpenFiles": [
+    "2024年01月",
     "博客文章/照片整理.md",
     "博客文章/博客六周年.md",
     "博客文章/assets/博客六周年_image_3.png",
